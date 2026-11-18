@@ -2,7 +2,7 @@ Global Solution FIAP 2026.2 - Physical Computing: IOT & IOB
 CitizenTech: Quadra Viva
 
 Integrantes:
-Lucas Serrano - RM 555170
-David Murillo - RM 559078
-Ana Clara - RM 559021
-Yasmin Gonçalves - RM 559147
+Ana Clara - RM559021
+David Murillo - RM559078
+Lucas Serrano - RM555170
+Yasmin Gonçalves - RM559147

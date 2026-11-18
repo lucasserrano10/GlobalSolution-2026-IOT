@@ -113,7 +113,7 @@ Roteiro de teste (também usado no vídeo):
 
 ## Integrantes
 
-- Lucas Serrano, RM 555170
-- David Murillo, RM 559078
 - Ana Clara, RM 559021
+- David Murillo, RM 559078
+- Lucas Serrano, RM 555170
 - Yasmin Gonçalves, RM 559147
