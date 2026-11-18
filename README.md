@@ -107,7 +107,7 @@ Roteiro de teste (também usado no vídeo):
 
 ## Entregáveis da disciplina
 
-- [ ] **Link do projeto no Wokwi:** _pendente: salvar o projeto no Wokwi e colar o link aqui_
+- [x] **Link do projeto no Wokwi:** https://wokwi.com/projects/481062470026549249
 - [ ] **Link do vídeo (até 4 min):** _pendente: gravar, subir no YouTube como não listado e colar o link aqui_
 - [x] **Arquivo `.txt` com os integrantes:** [`integrantes.txt`](integrantes.txt)
 
