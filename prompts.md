@@ -8,4 +8,4 @@ IA usada como copiloto para estruturar o circuito e o código. Cada integrante d
 | 2 | Código | "Escreva o sketch do ESP32 que classifica o risco com os mesmos níveis do app (baixo, atenção, alto, crítico) e publica JSON na Serial." | Estrutura do sketch, mediana de leituras, `millis()` no lugar de `delay`. |
 | 3 | Validação | "Compile o sketch para a placa esp32:esp32:esp32." | Compilação sem erros. |
 
-Revisões feitas pela equipe: _preencher_ (por exemplo, ajuste dos limites de obstrução e de lâmina d'água).
+Revisões feitas pela equipe: _pendente_ (a equipe deve registrar aqui o que ajustou, por exemplo os limites de obstrução e de lâmina d'água).

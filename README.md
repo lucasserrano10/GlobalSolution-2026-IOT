@@ -12,6 +12,7 @@ Circuito com **ESP32 simulado no Wokwi** que faz o papel da camada física da Ci
 | **Problema, em uma frase** | Moradores só descobrem o alagamento depois que a rua já alagou, porque bocas de lobo entupidas não avisam ninguém com antecedência. |
 | **Como funciona** | Sensores nas bocas de lobo + previsão de curto prazo + atuadores agem antes da chuva. A quadra pública vira reservatório no pico da chuva. |
 | **O que cada parte faz** | **IoT/ESP32 (esta pasta):** mede obstrução e lâmina d'água, classifica o risco e aciona alertas e a cancela da quadra. **Mobile:** mostra o risco por rua ao cidadão. **IA/ML:** previsão de chuva/alagamento. |
+| **Link do repositório** | https://github.com/lucasserrano10/GlobalSolution-2026-IOT |
 | **Indicador de impacto** | Bocas de lobo desobstruídas antes da chuva; antecedência do alerta; redução da lâmina d'água nas ruas monitoradas. |
 | **ODS conectados** | **11** Cidades e comunidades sustentáveis; **13** Ação contra a mudança global do clima; **9** Indústria, inovação e infraestrutura. |
 
@@ -81,7 +82,9 @@ Roteiro de teste (também usado no vídeo):
 
 ## Validação feita
 
-O sketch foi compilado com `arduino-cli` (core `esp32:esp32` 3.3.13, placa `esp32:esp32:esp32`) sem erros nem avisos de compilação, usando 22 % da flash. **A simulação no Wokwi em si deve ser conferida pela equipe** antes de gravar o vídeo: abra o projeto e rode o roteiro acima.
+- O sketch foi compilado com `arduino-cli` (core `esp32:esp32` 3.3.13, placa `esp32:esp32:esp32`) sem erros nem avisos de compilação, usando 22 % da flash.
+- A lógica de decisão foi conferida contra o roteiro de teste acima, passo a passo, e dá os resultados esperados.
+- **Pendente:** o `diagram.json` foi escrito à mão e ainda não foi aberto no Wokwi. A equipe deve rodar o roteiro acima no simulador antes de gravar o vídeo e ajustar pinos ou ligações se o Wokwi apontar algum erro.
 
 ## Escolhas de projeto
 
@@ -104,6 +107,13 @@ O sketch foi compilado com `arduino-cli` (core `esp32:esp32` 3.3.13, placa `esp3
 
 ## Entregáveis da disciplina
 
-- **Link do projeto no Wokwi:** _preencher depois de salvar o projeto no Wokwi_
-- **Link do vídeo (até 4 min):** _preencher depois de gravar_
-- **Arquivo `.txt` com os integrantes:** [`integrantes.txt`](integrantes.txt)
+- [ ] **Link do projeto no Wokwi:** _pendente: salvar o projeto no Wokwi e colar o link aqui_
+- [ ] **Link do vídeo (até 4 min):** _pendente: gravar, subir no YouTube como não listado e colar o link aqui_
+- [x] **Arquivo `.txt` com os integrantes:** [`integrantes.txt`](integrantes.txt)
+
+## Integrantes
+
+- Lucas Serrano, RM 555170
+- David Murillo, RM 559078
+- Ana Clara, RM 559021
+- Yasmin Gonçalves, RM 559147
