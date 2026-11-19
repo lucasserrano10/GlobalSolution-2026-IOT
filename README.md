@@ -102,8 +102,6 @@ Roteiro de teste (também usado no vídeo):
 | [`wokwi/diagram.json`](wokwi/diagram.json) | Circuito do Wokwi |
 | [`wokwi/libraries.txt`](wokwi/libraries.txt) | Biblioteca usada |
 | [`integrantes.txt`](integrantes.txt) | Nomes dos integrantes (entregável) |
-| [`ROTEIRO_VIDEO.md`](ROTEIRO_VIDEO.md) | Roteiro do vídeo de até 4 minutos |
-| [`prompts.md`](prompts.md) | Uso de IA como copiloto |
 
 ## Entregáveis da disciplina
 
